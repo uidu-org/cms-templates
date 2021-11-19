@@ -2,4 +2,4 @@ In this repository you can find all the boilerplate templates you can use to get
 
 ## Templates
 
-- [/basic](Basic)
+- [Basic](/basic)
